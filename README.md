@@ -121,9 +121,18 @@ Go to Home > Get Data > MySQL Database
 Enter credentials and select hr_analytics table.
 
 Build visuals using your queries or import the full table.
+<img width="870" height="624" alt="image" src="https://github.com/user-attachments/assets/46bf44ef-1ced-4425-a1e2-ab1463ece61a" />
+
 
 ## 🧾 Results & Conclusion
 The dashboard helped identify departments with high attrition and roles with poor satisfaction. These findings allow HR to prioritize policy changes and targeted interventions to improve retention.
+# Attrition Proportion by Marital Status:
+Divorced: The attrition proportion is approximately 0.10.
+Married: The attrition proportion is approximately 0.12.
+Single: The attrition proportion is approximately 0.25.
+Visualization of Attrition Rate: The bar chart illustrates that single employees have the highest attrition rate, followed by married and then divorced employees.
+
+<img width="1330" height="750" alt="image" src="https://github.com/user-attachments/assets/c49c58ac-8ce9-40e8-b43b-834ae87cdd5b" />
 
 ## 🔭 Future Work
 Predictive modeling using Python (logistic regression or random forest).
